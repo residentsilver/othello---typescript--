@@ -1,0 +1,22 @@
+node_modules/@types/node/ts5.6/index.d.ts
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+build/
+out/
+
+# Environment variables
+*.env
+
+# Editor directories and files
+.vscode/
+
+# Test result and coverage
+coverage/
+test-results/
